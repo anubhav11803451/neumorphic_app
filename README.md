@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## 👀 Showcases
+
+[(./screenshot/Screenshot.png)]
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
