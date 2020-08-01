@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## 👀 Showcases
 
-[! [Sample](./screenshot/Screenshot.png)]
+[ ![Sample](./screenshot/Screenshot.png)](https://raw.githubusercontent.com/anubhav11803451/neumorphic_app/master/screenshot/Screenshot.png)
 
 ## Getting Started
 
