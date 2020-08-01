@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## 👀 Showcases
 
-[(./screenshot/Screenshot.png)]
+[! [Sample](./screenshot/Screenshot.png)]
 
 ## Getting Started
 
