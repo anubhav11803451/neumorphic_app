@@ -1,6 +1,7 @@
 # neumorphic_app
 
 A new Flutter project.
+Neumorphism also called Skeuomorphism UI trend is a term most often used in graphical user interface design to describe interface objects that mimic their real-world counterparts in how they appear and/or how the user can interact with them.
 
 ## 👀 Showcases
 
