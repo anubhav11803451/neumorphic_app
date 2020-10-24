@@ -12,7 +12,7 @@ NeumorphicThemeData dark() {
       ),
       centerTitle: true,
       iconTheme: IconThemeData(
-        color: Colors.grey[600],
+        color: Colors.grey[700],
       ),
     ),
     buttonStyle: NeumorphicStyle(
